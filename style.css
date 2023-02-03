@@ -17,3 +17,7 @@ nav{
 header{
     background-color: red;
 }
+h1{
+    font-size: 2vw;
+    text-align: right;
+}
